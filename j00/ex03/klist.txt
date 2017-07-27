@@ -1,0 +1,6 @@
+Credentials cache: API:DC1D8645-8545-4BCC-BC4F-B19A1686EB98
+        Principal: ichaon@42.FR
+
+  Issued                Expires               Principal
+Jul  4 21:34:24 2017  Jul 11 21:34:24 2017  krbtgt/42.FR@42.FR
+Jul  4 21:44:40 2017  Jul 11 21:34:24 2017  host/vgs-fn1.42.fr@42.FR
